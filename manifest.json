@@ -42,13 +42,13 @@
       "target": "clash"
     },
     {
-      "bytes": 5437,
+      "bytes": 5429,
       "entries": 167,
       "format": "yaml",
       "kind": "domain",
       "path": "v1/p-07244c8dfc06e1cc/clash/apple-cn-direct--direct--domain.yaml",
       "profile": "p-07244c8dfc06e1cc",
-      "sha256": "1b398dc08b380263aad6a80942c8285c431b3131304b1aa433845bbb6ddb36eb",
+      "sha256": "1af8c48539b89bf9bfef8a797dabe5c6f02860d65f8188739c4840b7b2d5707b",
       "target": "clash"
     },
     {
@@ -142,13 +142,13 @@
       "target": "clash"
     },
     {
-      "bytes": 491309,
-      "entries": 20490,
+      "bytes": 491424,
+      "entries": 20495,
       "format": "yaml",
       "kind": "ip",
       "path": "v1/p-07244c8dfc06e1cc/clash/direct-generic--direct--ip.yaml",
       "profile": "p-07244c8dfc06e1cc",
-      "sha256": "bb2a4c88c6985aafe9eec33d5b55db4772b17c586bbccc91dde678493c4f3438",
+      "sha256": "d84df34c969264e75767a7506104139630875954a2711d4841a000e444bc2356",
       "target": "clash"
     },
     {
@@ -332,13 +332,13 @@
       "target": "clash"
     },
     {
-      "bytes": 5884,
+      "bytes": 5876,
       "entries": 233,
       "format": "yaml",
       "kind": "domain",
       "path": "v1/p-07244c8dfc06e1cc/clash/reject--reject--domain.yaml",
       "profile": "p-07244c8dfc06e1cc",
-      "sha256": "eceb9d034c0c04d8c3313ee3ffed53a77fdc0c88b95cf365d1ca611d644aa5dc",
+      "sha256": "b287f100f2c1f9d9c25548e472d61955c95e8486f0a0011d4d7fb69db664ba52",
       "target": "clash"
     },
     {
@@ -472,13 +472,13 @@
       "target": "mihomo"
     },
     {
-      "bytes": 1654,
+      "bytes": 1672,
       "entries": 167,
       "format": "mrs",
       "kind": "domain",
       "path": "v1/p-07244c8dfc06e1cc/mihomo/apple-cn-direct--direct--domain.mrs",
       "profile": "p-07244c8dfc06e1cc",
-      "sha256": "edc60ce48af81993bc3334c0dec944b061b5f3a4e532bf51231878268bcad60c",
+      "sha256": "e43a106a6ced4a347b331068f73ea08038fbf639cac720f6e60d00224b23bb75",
       "target": "mihomo"
     },
     {
@@ -573,12 +573,12 @@
     },
     {
       "bytes": 79698,
-      "entries": 20490,
+      "entries": 20495,
       "format": "mrs",
       "kind": "ip",
       "path": "v1/p-07244c8dfc06e1cc/mihomo/direct-generic--direct--ip.mrs",
       "profile": "p-07244c8dfc06e1cc",
-      "sha256": "0c587e92716a33f7c022bac3de7f6df9f581a4357f9866c7749b23e6f380cd64",
+      "sha256": "b19c558e731b840856208f4d0643f9494a18a6066523af7124adf5b756685ee8",
       "target": "mihomo"
     },
     {
@@ -762,13 +762,13 @@
       "target": "mihomo"
     },
     {
-      "bytes": 2673,
+      "bytes": 2668,
       "entries": 233,
       "format": "mrs",
       "kind": "domain",
       "path": "v1/p-07244c8dfc06e1cc/mihomo/reject--reject--domain.mrs",
       "profile": "p-07244c8dfc06e1cc",
-      "sha256": "399101a1e7101d61bd9b012ba13fb499469e373b2eaad4390633ca4e689e4ce7",
+      "sha256": "0e8ea1ed442b101f58596a7a55a939570ad14e6af7c3551ee327b8c3ee4cd7b3",
       "target": "mihomo"
     },
     {
@@ -902,13 +902,13 @@
       "target": "sing-box"
     },
     {
-      "bytes": 1477,
+      "bytes": 1474,
       "entries": 167,
       "format": "srs",
       "kind": "domain",
       "path": "v1/p-07244c8dfc06e1cc/sing-box/apple-cn-direct--direct--domain.srs",
       "profile": "p-07244c8dfc06e1cc",
-      "sha256": "82099e284961d19c8c0cfbb0f6db17618cb6111bcbd93cc1088f1ee742f374c8",
+      "sha256": "a967d83f29b478daab80439b12c9dac4d9f50800ed71cfd7a09fac896c39bce6",
       "target": "sing-box"
     },
     {
@@ -1003,7 +1003,7 @@
     },
     {
       "bytes": 81510,
-      "entries": 20490,
+      "entries": 20495,
       "format": "srs",
       "kind": "ip",
       "path": "v1/p-07244c8dfc06e1cc/sing-box/direct-generic--direct--ip.srs",
@@ -1192,13 +1192,13 @@
       "target": "sing-box"
     },
     {
-      "bytes": 2399,
+      "bytes": 2397,
       "entries": 233,
       "format": "srs",
       "kind": "domain",
       "path": "v1/p-07244c8dfc06e1cc/sing-box/reject--reject--domain.srs",
       "profile": "p-07244c8dfc06e1cc",
-      "sha256": "0916bf179973a093778009367ff0e3371c3de026c675cbda95d9479cbfeb3750",
+      "sha256": "8b4b7d1780dec414ad4dc52face4b7323faa3c41fcecc09de81d95c649fc5f8e",
       "target": "sing-box"
     },
     {
@@ -1332,13 +1332,13 @@
       "target": "stash"
     },
     {
-      "bytes": 1654,
+      "bytes": 1672,
       "entries": 167,
       "format": "mrs",
       "kind": "domain",
       "path": "v1/p-07244c8dfc06e1cc/stash/apple-cn-direct--direct--domain.mrs",
       "profile": "p-07244c8dfc06e1cc",
-      "sha256": "edc60ce48af81993bc3334c0dec944b061b5f3a4e532bf51231878268bcad60c",
+      "sha256": "e43a106a6ced4a347b331068f73ea08038fbf639cac720f6e60d00224b23bb75",
       "target": "stash"
     },
     {
@@ -1433,12 +1433,12 @@
     },
     {
       "bytes": 79698,
-      "entries": 20490,
+      "entries": 20495,
       "format": "mrs",
       "kind": "ip",
       "path": "v1/p-07244c8dfc06e1cc/stash/direct-generic--direct--ip.mrs",
       "profile": "p-07244c8dfc06e1cc",
-      "sha256": "0c587e92716a33f7c022bac3de7f6df9f581a4357f9866c7749b23e6f380cd64",
+      "sha256": "b19c558e731b840856208f4d0643f9494a18a6066523af7124adf5b756685ee8",
       "target": "stash"
     },
     {
@@ -1622,13 +1622,13 @@
       "target": "stash"
     },
     {
-      "bytes": 2673,
+      "bytes": 2668,
       "entries": 233,
       "format": "mrs",
       "kind": "domain",
       "path": "v1/p-07244c8dfc06e1cc/stash/reject--reject--domain.mrs",
       "profile": "p-07244c8dfc06e1cc",
-      "sha256": "399101a1e7101d61bd9b012ba13fb499469e373b2eaad4390633ca4e689e4ce7",
+      "sha256": "0e8ea1ed442b101f58596a7a55a939570ad14e6af7c3551ee327b8c3ee4cd7b3",
       "target": "stash"
     },
     {
@@ -1752,13 +1752,13 @@
       "target": "surge"
     },
     {
-      "bytes": 4258,
+      "bytes": 4250,
       "entries": 167,
       "format": "list",
       "kind": "domain",
       "path": "v1/p-07244c8dfc06e1cc/surge/apple-cn-direct--direct--domain.list",
       "profile": "p-07244c8dfc06e1cc",
-      "sha256": "e865af1de11aac2c081afc269d2f5c61b5df4fc92b0ed695ffa20c391cb1647e",
+      "sha256": "eea801b3bdf43a381e87b14b1b2334571d9cb5259caa8a1fe1a820a33a88ef4c",
       "target": "surge"
     },
     {
@@ -1852,13 +1852,13 @@
       "target": "surge"
     },
     {
-      "bytes": 543313,
-      "entries": 20490,
+      "bytes": 543438,
+      "entries": 20495,
       "format": "list",
       "kind": "ip",
       "path": "v1/p-07244c8dfc06e1cc/surge/direct-generic--direct--ip.list",
       "profile": "p-07244c8dfc06e1cc",
-      "sha256": "169d0cada4667090d0d619636e54be255d47febf81e2b89fb13fcd31f83451f3",
+      "sha256": "bdbb132c082c2ef7a8f154a6960480b8490092392f61dfc7cff77c39a0faac70",
       "target": "surge"
     },
     {
@@ -2012,13 +2012,13 @@
       "target": "surge"
     },
     {
-      "bytes": 4280,
+      "bytes": 4272,
       "entries": 233,
       "format": "list",
       "kind": "domain",
       "path": "v1/p-07244c8dfc06e1cc/surge/reject--reject--domain.list",
       "profile": "p-07244c8dfc06e1cc",
-      "sha256": "5022ce324914c4c0d71350fbe2eded3f8c4b258c853df9001e6ca369d67cf8b1",
+      "sha256": "c98dee7ceab5fc3032b04eaf35d6d63ed8ad6449ebaa6b5d52bf0e2fc5e3da4e",
       "target": "surge"
     },
     {
@@ -2462,13 +2462,13 @@
       "target": "clash"
     },
     {
-      "bytes": 546,
+      "bytes": 538,
       "entries": 25,
       "format": "yaml",
       "kind": "domain",
       "path": "v1/p-10306b7a7847c880/clash/telegram--telegram--domain.yaml",
       "profile": "p-10306b7a7847c880",
-      "sha256": "2f388ecc570033e8a86429f5ae0646eb51e47c837b68b40471396f0067eb3cbc",
+      "sha256": "52d52859187ab6115562c27fd798f8d33c40803451ae74a82740ac5effe80a08",
       "target": "clash"
     },
     {
@@ -2832,13 +2832,13 @@
       "target": "mihomo"
     },
     {
-      "bytes": 364,
+      "bytes": 359,
       "entries": 25,
       "format": "mrs",
       "kind": "domain",
       "path": "v1/p-10306b7a7847c880/mihomo/telegram--telegram--domain.mrs",
       "profile": "p-10306b7a7847c880",
-      "sha256": "8b80e5a0b70cfd5b769483029ed59c8c373e63bd05219cfe27a7a676c865f0cf",
+      "sha256": "113e00e70c006080d032b2e5eddbcd889d57c831ca2879e5c97ef18c98cd71e5",
       "target": "mihomo"
     },
     {
@@ -3202,13 +3202,13 @@
       "target": "sing-box"
     },
     {
-      "bytes": 328,
+      "bytes": 325,
       "entries": 25,
       "format": "srs",
       "kind": "domain",
       "path": "v1/p-10306b7a7847c880/sing-box/telegram--telegram--domain.srs",
       "profile": "p-10306b7a7847c880",
-      "sha256": "3a2ac5c336013fe457b345a35167078739cfa8dbf142c11af2a9b03623eea248",
+      "sha256": "0888365d5b2b84912cc75d82bef1942e993d5aae233143d9d9166dd13395150a",
       "target": "sing-box"
     },
     {
@@ -3572,13 +3572,13 @@
       "target": "stash"
     },
     {
-      "bytes": 364,
+      "bytes": 359,
       "entries": 25,
       "format": "mrs",
       "kind": "domain",
       "path": "v1/p-10306b7a7847c880/stash/telegram--telegram--domain.mrs",
       "profile": "p-10306b7a7847c880",
-      "sha256": "8b80e5a0b70cfd5b769483029ed59c8c373e63bd05219cfe27a7a676c865f0cf",
+      "sha256": "113e00e70c006080d032b2e5eddbcd889d57c831ca2879e5c97ef18c98cd71e5",
       "target": "stash"
     },
     {
@@ -3932,13 +3932,13 @@
       "target": "surge"
     },
     {
-      "bytes": 364,
+      "bytes": 356,
       "entries": 25,
       "format": "list",
       "kind": "domain",
       "path": "v1/p-10306b7a7847c880/surge/telegram--telegram--domain.list",
       "profile": "p-10306b7a7847c880",
-      "sha256": "645d2aecf0986a5a94eb3099b3c3f3648f4525544e9124ba24ee93c802c588ec",
+      "sha256": "15ff77046c0a2229ea7a3924d7454ba41fd389663bdcd7ea1d6fde2ef073218d",
       "target": "surge"
     },
     {
@@ -3992,13 +3992,13 @@
       "target": "clash"
     },
     {
-      "bytes": 5437,
+      "bytes": 5429,
       "entries": 167,
       "format": "yaml",
       "kind": "domain",
       "path": "v1/p-716118d513e81573/clash/apple-cn-direct--direct--domain.yaml",
       "profile": "p-716118d513e81573",
-      "sha256": "1b398dc08b380263aad6a80942c8285c431b3131304b1aa433845bbb6ddb36eb",
+      "sha256": "1af8c48539b89bf9bfef8a797dabe5c6f02860d65f8188739c4840b7b2d5707b",
       "target": "clash"
     },
     {
@@ -4132,13 +4132,13 @@
       "target": "clash"
     },
     {
-      "bytes": 84976,
-      "entries": 3942,
+      "bytes": 85045,
+      "entries": 3945,
       "format": "yaml",
       "kind": "ip",
       "path": "v1/p-716118d513e81573/clash/direct-generic--direct--ip.yaml",
       "profile": "p-716118d513e81573",
-      "sha256": "61e450129b5624c5864c7aae84836925861b059612957bbc11464ed16084c978",
+      "sha256": "bf7ad9fd2b6ce3e5d65413ec4c0a14901833187ad0cf4aea7f66e513d88b5ac5",
       "target": "clash"
     },
     {
@@ -4312,13 +4312,13 @@
       "target": "clash"
     },
     {
-      "bytes": 5884,
+      "bytes": 5876,
       "entries": 233,
       "format": "yaml",
       "kind": "domain",
       "path": "v1/p-716118d513e81573/clash/reject--reject--domain.yaml",
       "profile": "p-716118d513e81573",
-      "sha256": "eceb9d034c0c04d8c3313ee3ffed53a77fdc0c88b95cf365d1ca611d644aa5dc",
+      "sha256": "b287f100f2c1f9d9c25548e472d61955c95e8486f0a0011d4d7fb69db664ba52",
       "target": "clash"
     },
     {
@@ -4442,13 +4442,13 @@
       "target": "mihomo"
     },
     {
-      "bytes": 1654,
+      "bytes": 1672,
       "entries": 167,
       "format": "mrs",
       "kind": "domain",
       "path": "v1/p-716118d513e81573/mihomo/apple-cn-direct--direct--domain.mrs",
       "profile": "p-716118d513e81573",
-      "sha256": "edc60ce48af81993bc3334c0dec944b061b5f3a4e532bf51231878268bcad60c",
+      "sha256": "e43a106a6ced4a347b331068f73ea08038fbf639cac720f6e60d00224b23bb75",
       "target": "mihomo"
     },
     {
@@ -4582,13 +4582,13 @@
       "target": "mihomo"
     },
     {
-      "bytes": 16993,
-      "entries": 3942,
+      "bytes": 17020,
+      "entries": 3945,
       "format": "mrs",
       "kind": "ip",
       "path": "v1/p-716118d513e81573/mihomo/direct-generic--direct--ip.mrs",
       "profile": "p-716118d513e81573",
-      "sha256": "437a95002fe05b5681097d6b92d665a73061292fe94215465d19a02514daa143",
+      "sha256": "5b2e1b0de6145735176c0f53881a09ee2abd0ec6e7125926da41f5e8f3b5b876",
       "target": "mihomo"
     },
     {
@@ -4762,13 +4762,13 @@
       "target": "mihomo"
     },
     {
-      "bytes": 2673,
+      "bytes": 2668,
       "entries": 233,
       "format": "mrs",
       "kind": "domain",
       "path": "v1/p-716118d513e81573/mihomo/reject--reject--domain.mrs",
       "profile": "p-716118d513e81573",
-      "sha256": "399101a1e7101d61bd9b012ba13fb499469e373b2eaad4390633ca4e689e4ce7",
+      "sha256": "0e8ea1ed442b101f58596a7a55a939570ad14e6af7c3551ee327b8c3ee4cd7b3",
       "target": "mihomo"
     },
     {
@@ -4892,13 +4892,13 @@
       "target": "sing-box"
     },
     {
-      "bytes": 1477,
+      "bytes": 1474,
       "entries": 167,
       "format": "srs",
       "kind": "domain",
       "path": "v1/p-716118d513e81573/sing-box/apple-cn-direct--direct--domain.srs",
       "profile": "p-716118d513e81573",
-      "sha256": "82099e284961d19c8c0cfbb0f6db17618cb6111bcbd93cc1088f1ee742f374c8",
+      "sha256": "a967d83f29b478daab80439b12c9dac4d9f50800ed71cfd7a09fac896c39bce6",
       "target": "sing-box"
     },
     {
@@ -5032,13 +5032,13 @@
       "target": "sing-box"
     },
     {
-      "bytes": 14244,
-      "entries": 3942,
+      "bytes": 14249,
+      "entries": 3945,
       "format": "srs",
       "kind": "ip",
       "path": "v1/p-716118d513e81573/sing-box/direct-generic--direct--ip.srs",
       "profile": "p-716118d513e81573",
-      "sha256": "fd39716512a3160472ad8d5780770877a24942b3f94f15e6545fd72158d5c8c9",
+      "sha256": "37e237c815cafe142f5d22215cfc771851d313ae09e85e3f5251da20d1f429ba",
       "target": "sing-box"
     },
     {
@@ -5212,13 +5212,13 @@
       "target": "sing-box"
     },
     {
-      "bytes": 2399,
+      "bytes": 2397,
       "entries": 233,
       "format": "srs",
       "kind": "domain",
       "path": "v1/p-716118d513e81573/sing-box/reject--reject--domain.srs",
       "profile": "p-716118d513e81573",
-      "sha256": "0916bf179973a093778009367ff0e3371c3de026c675cbda95d9479cbfeb3750",
+      "sha256": "8b4b7d1780dec414ad4dc52face4b7323faa3c41fcecc09de81d95c649fc5f8e",
       "target": "sing-box"
     },
     {
@@ -5342,13 +5342,13 @@
       "target": "stash"
     },
     {
-      "bytes": 1654,
+      "bytes": 1672,
       "entries": 167,
       "format": "mrs",
       "kind": "domain",
       "path": "v1/p-716118d513e81573/stash/apple-cn-direct--direct--domain.mrs",
       "profile": "p-716118d513e81573",
-      "sha256": "edc60ce48af81993bc3334c0dec944b061b5f3a4e532bf51231878268bcad60c",
+      "sha256": "e43a106a6ced4a347b331068f73ea08038fbf639cac720f6e60d00224b23bb75",
       "target": "stash"
     },
     {
@@ -5482,13 +5482,13 @@
       "target": "stash"
     },
     {
-      "bytes": 16993,
-      "entries": 3942,
+      "bytes": 17020,
+      "entries": 3945,
       "format": "mrs",
       "kind": "ip",
       "path": "v1/p-716118d513e81573/stash/direct-generic--direct--ip.mrs",
       "profile": "p-716118d513e81573",
-      "sha256": "437a95002fe05b5681097d6b92d665a73061292fe94215465d19a02514daa143",
+      "sha256": "5b2e1b0de6145735176c0f53881a09ee2abd0ec6e7125926da41f5e8f3b5b876",
       "target": "stash"
     },
     {
@@ -5662,13 +5662,13 @@
       "target": "stash"
     },
     {
-      "bytes": 2673,
+      "bytes": 2668,
       "entries": 233,
       "format": "mrs",
       "kind": "domain",
       "path": "v1/p-716118d513e81573/stash/reject--reject--domain.mrs",
       "profile": "p-716118d513e81573",
-      "sha256": "399101a1e7101d61bd9b012ba13fb499469e373b2eaad4390633ca4e689e4ce7",
+      "sha256": "0e8ea1ed442b101f58596a7a55a939570ad14e6af7c3551ee327b8c3ee4cd7b3",
       "target": "stash"
     },
     {
@@ -5782,13 +5782,13 @@
       "target": "surge"
     },
     {
-      "bytes": 4258,
+      "bytes": 4250,
       "entries": 167,
       "format": "list",
       "kind": "domain",
       "path": "v1/p-716118d513e81573/surge/apple-cn-direct--direct--domain.list",
       "profile": "p-716118d513e81573",
-      "sha256": "e865af1de11aac2c081afc269d2f5c61b5df4fc92b0ed695ffa20c391cb1647e",
+      "sha256": "eea801b3bdf43a381e87b14b1b2334571d9cb5259caa8a1fe1a820a33a88ef4c",
       "target": "surge"
     },
     {
@@ -5922,13 +5922,13 @@
       "target": "surge"
     },
     {
-      "bytes": 92853,
-      "entries": 3942,
+      "bytes": 92928,
+      "entries": 3945,
       "format": "list",
       "kind": "ip",
       "path": "v1/p-716118d513e81573/surge/direct-generic--direct--ip.list",
       "profile": "p-716118d513e81573",
-      "sha256": "e6f804822863aaec44e975efc00dcf1de6ee6aaea5ffd04f8cbd5532c450e0ff",
+      "sha256": "c69dce8937d6a786446225b5892df29fba72fe235bdb35c14169e34950f681c3",
       "target": "surge"
     },
     {
@@ -6072,13 +6072,13 @@
       "target": "surge"
     },
     {
-      "bytes": 4280,
+      "bytes": 4272,
       "entries": 233,
       "format": "list",
       "kind": "domain",
       "path": "v1/p-716118d513e81573/surge/reject--reject--domain.list",
       "profile": "p-716118d513e81573",
-      "sha256": "5022ce324914c4c0d71350fbe2eded3f8c4b258c853df9001e6ca369d67cf8b1",
+      "sha256": "c98dee7ceab5fc3032b04eaf35d6d63ed8ad6449ebaa6b5d52bf0e2fc5e3da4e",
       "target": "surge"
     },
     {
@@ -6202,13 +6202,13 @@
       "target": "clash"
     },
     {
-      "bytes": 5437,
+      "bytes": 5429,
       "entries": 167,
       "format": "yaml",
       "kind": "domain",
       "path": "v1/p-d24d9fa7c0018b71/clash/apple-cn-direct--direct--domain.yaml",
       "profile": "p-d24d9fa7c0018b71",
-      "sha256": "1b398dc08b380263aad6a80942c8285c431b3131304b1aa433845bbb6ddb36eb",
+      "sha256": "1af8c48539b89bf9bfef8a797dabe5c6f02860d65f8188739c4840b7b2d5707b",
       "target": "clash"
     },
     {
@@ -6342,13 +6342,13 @@
       "target": "clash"
     },
     {
-      "bytes": 491309,
-      "entries": 20490,
+      "bytes": 491424,
+      "entries": 20495,
       "format": "yaml",
       "kind": "ip",
       "path": "v1/p-d24d9fa7c0018b71/clash/direct-generic--direct--ip.yaml",
       "profile": "p-d24d9fa7c0018b71",
-      "sha256": "bb2a4c88c6985aafe9eec33d5b55db4772b17c586bbccc91dde678493c4f3438",
+      "sha256": "d84df34c969264e75767a7506104139630875954a2711d4841a000e444bc2356",
       "target": "clash"
     },
     {
@@ -6532,13 +6532,13 @@
       "target": "clash"
     },
     {
-      "bytes": 5884,
+      "bytes": 5876,
       "entries": 233,
       "format": "yaml",
       "kind": "domain",
       "path": "v1/p-d24d9fa7c0018b71/clash/reject--reject--domain.yaml",
       "profile": "p-d24d9fa7c0018b71",
-      "sha256": "eceb9d034c0c04d8c3313ee3ffed53a77fdc0c88b95cf365d1ca611d644aa5dc",
+      "sha256": "b287f100f2c1f9d9c25548e472d61955c95e8486f0a0011d4d7fb69db664ba52",
       "target": "clash"
     },
     {
@@ -6662,13 +6662,13 @@
       "target": "mihomo"
     },
     {
-      "bytes": 1654,
+      "bytes": 1672,
       "entries": 167,
       "format": "mrs",
       "kind": "domain",
       "path": "v1/p-d24d9fa7c0018b71/mihomo/apple-cn-direct--direct--domain.mrs",
       "profile": "p-d24d9fa7c0018b71",
-      "sha256": "edc60ce48af81993bc3334c0dec944b061b5f3a4e532bf51231878268bcad60c",
+      "sha256": "e43a106a6ced4a347b331068f73ea08038fbf639cac720f6e60d00224b23bb75",
       "target": "mihomo"
     },
     {
@@ -6803,12 +6803,12 @@
     },
     {
       "bytes": 79698,
-      "entries": 20490,
+      "entries": 20495,
       "format": "mrs",
       "kind": "ip",
       "path": "v1/p-d24d9fa7c0018b71/mihomo/direct-generic--direct--ip.mrs",
       "profile": "p-d24d9fa7c0018b71",
-      "sha256": "0c587e92716a33f7c022bac3de7f6df9f581a4357f9866c7749b23e6f380cd64",
+      "sha256": "b19c558e731b840856208f4d0643f9494a18a6066523af7124adf5b756685ee8",
       "target": "mihomo"
     },
     {
@@ -6992,13 +6992,13 @@
       "target": "mihomo"
     },
     {
-      "bytes": 2673,
+      "bytes": 2668,
       "entries": 233,
       "format": "mrs",
       "kind": "domain",
       "path": "v1/p-d24d9fa7c0018b71/mihomo/reject--reject--domain.mrs",
       "profile": "p-d24d9fa7c0018b71",
-      "sha256": "399101a1e7101d61bd9b012ba13fb499469e373b2eaad4390633ca4e689e4ce7",
+      "sha256": "0e8ea1ed442b101f58596a7a55a939570ad14e6af7c3551ee327b8c3ee4cd7b3",
       "target": "mihomo"
     },
     {
@@ -7122,13 +7122,13 @@
       "target": "sing-box"
     },
     {
-      "bytes": 1477,
+      "bytes": 1474,
       "entries": 167,
       "format": "srs",
       "kind": "domain",
       "path": "v1/p-d24d9fa7c0018b71/sing-box/apple-cn-direct--direct--domain.srs",
       "profile": "p-d24d9fa7c0018b71",
-      "sha256": "82099e284961d19c8c0cfbb0f6db17618cb6111bcbd93cc1088f1ee742f374c8",
+      "sha256": "a967d83f29b478daab80439b12c9dac4d9f50800ed71cfd7a09fac896c39bce6",
       "target": "sing-box"
     },
     {
@@ -7263,7 +7263,7 @@
     },
     {
       "bytes": 81510,
-      "entries": 20490,
+      "entries": 20495,
       "format": "srs",
       "kind": "ip",
       "path": "v1/p-d24d9fa7c0018b71/sing-box/direct-generic--direct--ip.srs",
@@ -7452,13 +7452,13 @@
       "target": "sing-box"
     },
     {
-      "bytes": 2399,
+      "bytes": 2397,
       "entries": 233,
       "format": "srs",
       "kind": "domain",
       "path": "v1/p-d24d9fa7c0018b71/sing-box/reject--reject--domain.srs",
       "profile": "p-d24d9fa7c0018b71",
-      "sha256": "0916bf179973a093778009367ff0e3371c3de026c675cbda95d9479cbfeb3750",
+      "sha256": "8b4b7d1780dec414ad4dc52face4b7323faa3c41fcecc09de81d95c649fc5f8e",
       "target": "sing-box"
     },
     {
@@ -7582,13 +7582,13 @@
       "target": "stash"
     },
     {
-      "bytes": 1654,
+      "bytes": 1672,
       "entries": 167,
       "format": "mrs",
       "kind": "domain",
       "path": "v1/p-d24d9fa7c0018b71/stash/apple-cn-direct--direct--domain.mrs",
       "profile": "p-d24d9fa7c0018b71",
-      "sha256": "edc60ce48af81993bc3334c0dec944b061b5f3a4e532bf51231878268bcad60c",
+      "sha256": "e43a106a6ced4a347b331068f73ea08038fbf639cac720f6e60d00224b23bb75",
       "target": "stash"
     },
     {
@@ -7723,12 +7723,12 @@
     },
     {
       "bytes": 79698,
-      "entries": 20490,
+      "entries": 20495,
       "format": "mrs",
       "kind": "ip",
       "path": "v1/p-d24d9fa7c0018b71/stash/direct-generic--direct--ip.mrs",
       "profile": "p-d24d9fa7c0018b71",
-      "sha256": "0c587e92716a33f7c022bac3de7f6df9f581a4357f9866c7749b23e6f380cd64",
+      "sha256": "b19c558e731b840856208f4d0643f9494a18a6066523af7124adf5b756685ee8",
       "target": "stash"
     },
     {
@@ -7912,13 +7912,13 @@
       "target": "stash"
     },
     {
-      "bytes": 2673,
+      "bytes": 2668,
       "entries": 233,
       "format": "mrs",
       "kind": "domain",
       "path": "v1/p-d24d9fa7c0018b71/stash/reject--reject--domain.mrs",
       "profile": "p-d24d9fa7c0018b71",
-      "sha256": "399101a1e7101d61bd9b012ba13fb499469e373b2eaad4390633ca4e689e4ce7",
+      "sha256": "0e8ea1ed442b101f58596a7a55a939570ad14e6af7c3551ee327b8c3ee4cd7b3",
       "target": "stash"
     },
     {
@@ -8032,13 +8032,13 @@
       "target": "surge"
     },
     {
-      "bytes": 4258,
+      "bytes": 4250,
       "entries": 167,
       "format": "list",
       "kind": "domain",
       "path": "v1/p-d24d9fa7c0018b71/surge/apple-cn-direct--direct--domain.list",
       "profile": "p-d24d9fa7c0018b71",
-      "sha256": "e865af1de11aac2c081afc269d2f5c61b5df4fc92b0ed695ffa20c391cb1647e",
+      "sha256": "eea801b3bdf43a381e87b14b1b2334571d9cb5259caa8a1fe1a820a33a88ef4c",
       "target": "surge"
     },
     {
@@ -8172,13 +8172,13 @@
       "target": "surge"
     },
     {
-      "bytes": 543313,
-      "entries": 20490,
+      "bytes": 543438,
+      "entries": 20495,
       "format": "list",
       "kind": "ip",
       "path": "v1/p-d24d9fa7c0018b71/surge/direct-generic--direct--ip.list",
       "profile": "p-d24d9fa7c0018b71",
-      "sha256": "169d0cada4667090d0d619636e54be255d47febf81e2b89fb13fcd31f83451f3",
+      "sha256": "bdbb132c082c2ef7a8f154a6960480b8490092392f61dfc7cff77c39a0faac70",
       "target": "surge"
     },
     {
@@ -8332,13 +8332,13 @@
       "target": "surge"
     },
     {
-      "bytes": 4280,
+      "bytes": 4272,
       "entries": 233,
       "format": "list",
       "kind": "domain",
       "path": "v1/p-d24d9fa7c0018b71/surge/reject--reject--domain.list",
       "profile": "p-d24d9fa7c0018b71",
-      "sha256": "5022ce324914c4c0d71350fbe2eded3f8c4b258c853df9001e6ca369d67cf8b1",
+      "sha256": "c98dee7ceab5fc3032b04eaf35d6d63ed8ad6449ebaa6b5d52bf0e2fc5e3da4e",
       "target": "surge"
     },
     {
@@ -8422,7 +8422,7 @@
       "target": "surge"
     }
   ],
-  "generated_at": "2026-07-31T05:34:36+00:00",
+  "generated_at": "2026-07-31T17:33:11+00:00",
   "path_schema": "v1",
   "profile_count": 4,
   "profiles": [
@@ -8467,8 +8467,8 @@
       }
     }
   ],
-  "revision": "1aa744d2559b1be240ea",
+  "revision": "43ee8858185ab78c5109",
   "schema_version": 1,
-  "total_bytes": 35704563,
-  "total_rule_entries": 3255468
+  "total_bytes": 35705184,
+  "total_rule_entries": 3255533
 }
