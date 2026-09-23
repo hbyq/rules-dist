@@ -37,7 +37,7 @@ payload:
   - 'PROCESS-NAME,Folx'
   - 'PROCESS-NAME,xray'
   - 'PROCESS-NAME,fdm'
-  - 'DOMAIN-WILDCARD,*.qhimgs?.com'
+  - 'DOMAIN-WILDCARD,qhimgs?.com'
   - 'DOMAIN-KEYWORD,sciencedirect'
   - 'DOMAIN-KEYWORD,westlawchina'
   - 'DOMAIN-KEYWORD,wanfangdata'
