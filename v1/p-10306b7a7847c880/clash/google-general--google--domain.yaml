@@ -1,5 +1,5 @@
 payload:
-  - "+.google-ohttp-relay-safebrowsing.fastly-edge.com"
+  - "google-ohttp-relay-safebrowsing.fastly-edge.com"
   - "+.app-analytics-services-att.com"
   - "+.googleacquisitionmigration.com"
   - "+.googletraveladservices-cn.com"
@@ -475,7 +475,6 @@ payload:
   - "+.gogole.com"
   - "+.golang.com"
   - "+.golang.net"
-  - "+.golang.org"
   - "+.googel.com"
   - "+.googil.com"
   - "+.google.cat"
@@ -685,7 +684,6 @@ payload:
   - "+.chrome"
   - "+.g.page"
   - "+.gcr.io"
-  - "+.go.dev"
   - "+.goo.gl"
   - "+.google"
   - "+.gv.com"

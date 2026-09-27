@@ -1,0 +1,4 @@
+payload:
+  - 'DOMAIN-WILDCARD,cdn-*.microsoft.com'
+  - 'DOMAIN-WILDCARD,cdn.*.microsoft.com'
+  - 'DOMAIN-WILDCARD,cdn.*.office.net'
