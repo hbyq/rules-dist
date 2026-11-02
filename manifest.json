@@ -102,13 +102,13 @@
       "target": "clash"
     },
     {
-      "bytes": 558143,
-      "entries": 27053,
+      "bytes": 558187,
+      "entries": 27055,
       "format": "yaml",
       "kind": "domain",
       "path": "v1/p-10306b7a7847c880/clash/cn-accelerated-direct--direct--domain-s0.yaml",
       "profile": "p-10306b7a7847c880",
-      "sha256": "05a3dbbd3966489cedd07bcbc64b8d47902a9a506803af0675010f9a553d4b7c",
+      "sha256": "52607513712b0f85e8cff83cec065dbb05b102c0bc3777873c5c69498ed96ed1",
       "target": "clash"
     },
     {
@@ -122,13 +122,13 @@
       "target": "clash"
     },
     {
-      "bytes": 569920,
-      "entries": 27614,
+      "bytes": 569938,
+      "entries": 27615,
       "format": "yaml",
       "kind": "domain",
       "path": "v1/p-10306b7a7847c880/clash/cn-accelerated-direct--direct--domain-s2.yaml",
       "profile": "p-10306b7a7847c880",
-      "sha256": "19de7372e9d3ec3e772600d4b174747522a6e32918f30eb500628f1ce9eea5bd",
+      "sha256": "2aa5d5c76733c2ea44ea92a058cc06cefce362b8718f5434623ae19740a89739",
       "target": "clash"
     },
     {
@@ -652,13 +652,13 @@
       "target": "mihomo"
     },
     {
-      "bytes": 155103,
-      "entries": 27053,
+      "bytes": 155457,
+      "entries": 27055,
       "format": "mrs",
       "kind": "domain",
       "path": "v1/p-10306b7a7847c880/mihomo/cn-accelerated-direct--direct--domain-s0.mrs",
       "profile": "p-10306b7a7847c880",
-      "sha256": "8db948decd92f7f3f81972224f7c3dbe22c6457725facffc69d747724dcbcc48",
+      "sha256": "d8b054b4901a0da400f503f5035df72d2add98566c1d3d86e1bf755e7c6096d0",
       "target": "mihomo"
     },
     {
@@ -672,13 +672,13 @@
       "target": "mihomo"
     },
     {
-      "bytes": 158696,
-      "entries": 27614,
+      "bytes": 158770,
+      "entries": 27615,
       "format": "mrs",
       "kind": "domain",
       "path": "v1/p-10306b7a7847c880/mihomo/cn-accelerated-direct--direct--domain-s2.mrs",
       "profile": "p-10306b7a7847c880",
-      "sha256": "01322fe4d7070a3bd3ec777f3246c2f002d9897f04727b99cf8f1e750bf959d0",
+      "sha256": "1af51d653497723377a8126380222e124d86f31b5f0f738fee4f9aa109a720a6",
       "target": "mihomo"
     },
     {
@@ -1202,13 +1202,13 @@
       "target": "sing-box"
     },
     {
-      "bytes": 121912,
-      "entries": 27053,
+      "bytes": 121901,
+      "entries": 27055,
       "format": "srs",
       "kind": "domain",
       "path": "v1/p-10306b7a7847c880/sing-box/cn-accelerated-direct--direct--domain-s0.srs",
       "profile": "p-10306b7a7847c880",
-      "sha256": "eb18009ff709412d49ef34203eb76beed8d4ed85d34d87bce9e296d585e07609",
+      "sha256": "fc9142587e348e837f7131991ceac63cf78126facc754f7db13fc0e528f76267",
       "target": "sing-box"
     },
     {
@@ -1222,13 +1222,13 @@
       "target": "sing-box"
     },
     {
-      "bytes": 125040,
-      "entries": 27614,
+      "bytes": 125022,
+      "entries": 27615,
       "format": "srs",
       "kind": "domain",
       "path": "v1/p-10306b7a7847c880/sing-box/cn-accelerated-direct--direct--domain-s2.srs",
       "profile": "p-10306b7a7847c880",
-      "sha256": "19cbbb1d839c65d3129a9355accd67a8ea16d40ee6dd02d34bf8824f1449c883",
+      "sha256": "9e5fde12a327efbf01bcdcf36606d4fda370123a2b6a5766f9a1497847a0f724",
       "target": "sing-box"
     },
     {
@@ -1742,13 +1742,13 @@
       "target": "stash"
     },
     {
-      "bytes": 155103,
-      "entries": 27053,
+      "bytes": 155457,
+      "entries": 27055,
       "format": "mrs",
       "kind": "domain",
       "path": "v1/p-10306b7a7847c880/stash/cn-accelerated-direct--direct--domain-s0.mrs",
       "profile": "p-10306b7a7847c880",
-      "sha256": "8db948decd92f7f3f81972224f7c3dbe22c6457725facffc69d747724dcbcc48",
+      "sha256": "d8b054b4901a0da400f503f5035df72d2add98566c1d3d86e1bf755e7c6096d0",
       "target": "stash"
     },
     {
@@ -1762,13 +1762,13 @@
       "target": "stash"
     },
     {
-      "bytes": 158696,
-      "entries": 27614,
+      "bytes": 158770,
+      "entries": 27615,
       "format": "mrs",
       "kind": "domain",
       "path": "v1/p-10306b7a7847c880/stash/cn-accelerated-direct--direct--domain-s2.mrs",
       "profile": "p-10306b7a7847c880",
-      "sha256": "01322fe4d7070a3bd3ec777f3246c2f002d9897f04727b99cf8f1e750bf959d0",
+      "sha256": "1af51d653497723377a8126380222e124d86f31b5f0f738fee4f9aa109a720a6",
       "target": "stash"
     },
     {
@@ -2282,13 +2282,13 @@
       "target": "surge"
     },
     {
-      "bytes": 368861,
-      "entries": 27053,
+      "bytes": 368891,
+      "entries": 27055,
       "format": "list",
       "kind": "domain",
       "path": "v1/p-10306b7a7847c880/surge/cn-accelerated-direct--direct--domain-s0.list",
       "profile": "p-10306b7a7847c880",
-      "sha256": "e4997ab364f4ed94079a44505bae012788b3df9474739f957b609eaefaa68fc4",
+      "sha256": "6a885bd50071bb804c607476762dbdadf8d3a8147ecc45c49f108a3317877481",
       "target": "surge"
     },
     {
@@ -2302,13 +2302,13 @@
       "target": "surge"
     },
     {
-      "bytes": 376707,
-      "entries": 27614,
+      "bytes": 376718,
+      "entries": 27615,
       "format": "list",
       "kind": "domain",
       "path": "v1/p-10306b7a7847c880/surge/cn-accelerated-direct--direct--domain-s2.list",
       "profile": "p-10306b7a7847c880",
-      "sha256": "5d55b5aebc46943c5452c59633dbb39a34c8ad5e69a890b72f22369682857d4b",
+      "sha256": "8182fd6f180f5f2a59f111449b982ec5b56ecd1bd755a456fad974e6fad96c06",
       "target": "surge"
     },
     {
@@ -2832,13 +2832,13 @@
       "target": "clash"
     },
     {
-      "bytes": 558143,
-      "entries": 27053,
+      "bytes": 558187,
+      "entries": 27055,
       "format": "yaml",
       "kind": "domain",
       "path": "v1/p-5c8fcd618f4a15fc/clash/cn-accelerated-direct--direct--domain-s0.yaml",
       "profile": "p-5c8fcd618f4a15fc",
-      "sha256": "05a3dbbd3966489cedd07bcbc64b8d47902a9a506803af0675010f9a553d4b7c",
+      "sha256": "52607513712b0f85e8cff83cec065dbb05b102c0bc3777873c5c69498ed96ed1",
       "target": "clash"
     },
     {
@@ -2852,13 +2852,13 @@
       "target": "clash"
     },
     {
-      "bytes": 569920,
-      "entries": 27614,
+      "bytes": 569938,
+      "entries": 27615,
       "format": "yaml",
       "kind": "domain",
       "path": "v1/p-5c8fcd618f4a15fc/clash/cn-accelerated-direct--direct--domain-s2.yaml",
       "profile": "p-5c8fcd618f4a15fc",
-      "sha256": "19de7372e9d3ec3e772600d4b174747522a6e32918f30eb500628f1ce9eea5bd",
+      "sha256": "2aa5d5c76733c2ea44ea92a058cc06cefce362b8718f5434623ae19740a89739",
       "target": "clash"
     },
     {
@@ -3382,13 +3382,13 @@
       "target": "mihomo"
     },
     {
-      "bytes": 155103,
-      "entries": 27053,
+      "bytes": 155457,
+      "entries": 27055,
       "format": "mrs",
       "kind": "domain",
       "path": "v1/p-5c8fcd618f4a15fc/mihomo/cn-accelerated-direct--direct--domain-s0.mrs",
       "profile": "p-5c8fcd618f4a15fc",
-      "sha256": "8db948decd92f7f3f81972224f7c3dbe22c6457725facffc69d747724dcbcc48",
+      "sha256": "d8b054b4901a0da400f503f5035df72d2add98566c1d3d86e1bf755e7c6096d0",
       "target": "mihomo"
     },
     {
@@ -3402,13 +3402,13 @@
       "target": "mihomo"
     },
     {
-      "bytes": 158696,
-      "entries": 27614,
+      "bytes": 158770,
+      "entries": 27615,
       "format": "mrs",
       "kind": "domain",
       "path": "v1/p-5c8fcd618f4a15fc/mihomo/cn-accelerated-direct--direct--domain-s2.mrs",
       "profile": "p-5c8fcd618f4a15fc",
-      "sha256": "01322fe4d7070a3bd3ec777f3246c2f002d9897f04727b99cf8f1e750bf959d0",
+      "sha256": "1af51d653497723377a8126380222e124d86f31b5f0f738fee4f9aa109a720a6",
       "target": "mihomo"
     },
     {
@@ -3932,13 +3932,13 @@
       "target": "sing-box"
     },
     {
-      "bytes": 121912,
-      "entries": 27053,
+      "bytes": 121901,
+      "entries": 27055,
       "format": "srs",
       "kind": "domain",
       "path": "v1/p-5c8fcd618f4a15fc/sing-box/cn-accelerated-direct--direct--domain-s0.srs",
       "profile": "p-5c8fcd618f4a15fc",
-      "sha256": "eb18009ff709412d49ef34203eb76beed8d4ed85d34d87bce9e296d585e07609",
+      "sha256": "fc9142587e348e837f7131991ceac63cf78126facc754f7db13fc0e528f76267",
       "target": "sing-box"
     },
     {
@@ -3952,13 +3952,13 @@
       "target": "sing-box"
     },
     {
-      "bytes": 125040,
-      "entries": 27614,
+      "bytes": 125022,
+      "entries": 27615,
       "format": "srs",
       "kind": "domain",
       "path": "v1/p-5c8fcd618f4a15fc/sing-box/cn-accelerated-direct--direct--domain-s2.srs",
       "profile": "p-5c8fcd618f4a15fc",
-      "sha256": "19cbbb1d839c65d3129a9355accd67a8ea16d40ee6dd02d34bf8824f1449c883",
+      "sha256": "9e5fde12a327efbf01bcdcf36606d4fda370123a2b6a5766f9a1497847a0f724",
       "target": "sing-box"
     },
     {
@@ -4472,13 +4472,13 @@
       "target": "stash"
     },
     {
-      "bytes": 155103,
-      "entries": 27053,
+      "bytes": 155457,
+      "entries": 27055,
       "format": "mrs",
       "kind": "domain",
       "path": "v1/p-5c8fcd618f4a15fc/stash/cn-accelerated-direct--direct--domain-s0.mrs",
       "profile": "p-5c8fcd618f4a15fc",
-      "sha256": "8db948decd92f7f3f81972224f7c3dbe22c6457725facffc69d747724dcbcc48",
+      "sha256": "d8b054b4901a0da400f503f5035df72d2add98566c1d3d86e1bf755e7c6096d0",
       "target": "stash"
     },
     {
@@ -4492,13 +4492,13 @@
       "target": "stash"
     },
     {
-      "bytes": 158696,
-      "entries": 27614,
+      "bytes": 158770,
+      "entries": 27615,
       "format": "mrs",
       "kind": "domain",
       "path": "v1/p-5c8fcd618f4a15fc/stash/cn-accelerated-direct--direct--domain-s2.mrs",
       "profile": "p-5c8fcd618f4a15fc",
-      "sha256": "01322fe4d7070a3bd3ec777f3246c2f002d9897f04727b99cf8f1e750bf959d0",
+      "sha256": "1af51d653497723377a8126380222e124d86f31b5f0f738fee4f9aa109a720a6",
       "target": "stash"
     },
     {
@@ -5012,13 +5012,13 @@
       "target": "surge"
     },
     {
-      "bytes": 368861,
-      "entries": 27053,
+      "bytes": 368891,
+      "entries": 27055,
       "format": "list",
       "kind": "domain",
       "path": "v1/p-5c8fcd618f4a15fc/surge/cn-accelerated-direct--direct--domain-s0.list",
       "profile": "p-5c8fcd618f4a15fc",
-      "sha256": "e4997ab364f4ed94079a44505bae012788b3df9474739f957b609eaefaa68fc4",
+      "sha256": "6a885bd50071bb804c607476762dbdadf8d3a8147ecc45c49f108a3317877481",
       "target": "surge"
     },
     {
@@ -5032,13 +5032,13 @@
       "target": "surge"
     },
     {
-      "bytes": 376707,
-      "entries": 27614,
+      "bytes": 376718,
+      "entries": 27615,
       "format": "list",
       "kind": "domain",
       "path": "v1/p-5c8fcd618f4a15fc/surge/cn-accelerated-direct--direct--domain-s2.list",
       "profile": "p-5c8fcd618f4a15fc",
-      "sha256": "5d55b5aebc46943c5452c59633dbb39a34c8ad5e69a890b72f22369682857d4b",
+      "sha256": "8182fd6f180f5f2a59f111449b982ec5b56ecd1bd755a456fad974e6fad96c06",
       "target": "surge"
     },
     {
@@ -5562,13 +5562,13 @@
       "target": "clash"
     },
     {
-      "bytes": 558143,
-      "entries": 27053,
+      "bytes": 558187,
+      "entries": 27055,
       "format": "yaml",
       "kind": "domain",
       "path": "v1/p-716118d513e81573/clash/cn-accelerated-direct--direct--domain-s0.yaml",
       "profile": "p-716118d513e81573",
-      "sha256": "05a3dbbd3966489cedd07bcbc64b8d47902a9a506803af0675010f9a553d4b7c",
+      "sha256": "52607513712b0f85e8cff83cec065dbb05b102c0bc3777873c5c69498ed96ed1",
       "target": "clash"
     },
     {
@@ -5582,13 +5582,13 @@
       "target": "clash"
     },
     {
-      "bytes": 569920,
-      "entries": 27614,
+      "bytes": 569938,
+      "entries": 27615,
       "format": "yaml",
       "kind": "domain",
       "path": "v1/p-716118d513e81573/clash/cn-accelerated-direct--direct--domain-s2.yaml",
       "profile": "p-716118d513e81573",
-      "sha256": "19de7372e9d3ec3e772600d4b174747522a6e32918f30eb500628f1ce9eea5bd",
+      "sha256": "2aa5d5c76733c2ea44ea92a058cc06cefce362b8718f5434623ae19740a89739",
       "target": "clash"
     },
     {
@@ -6112,13 +6112,13 @@
       "target": "mihomo"
     },
     {
-      "bytes": 155103,
-      "entries": 27053,
+      "bytes": 155457,
+      "entries": 27055,
       "format": "mrs",
       "kind": "domain",
       "path": "v1/p-716118d513e81573/mihomo/cn-accelerated-direct--direct--domain-s0.mrs",
       "profile": "p-716118d513e81573",
-      "sha256": "8db948decd92f7f3f81972224f7c3dbe22c6457725facffc69d747724dcbcc48",
+      "sha256": "d8b054b4901a0da400f503f5035df72d2add98566c1d3d86e1bf755e7c6096d0",
       "target": "mihomo"
     },
     {
@@ -6132,13 +6132,13 @@
       "target": "mihomo"
     },
     {
-      "bytes": 158696,
-      "entries": 27614,
+      "bytes": 158770,
+      "entries": 27615,
       "format": "mrs",
       "kind": "domain",
       "path": "v1/p-716118d513e81573/mihomo/cn-accelerated-direct--direct--domain-s2.mrs",
       "profile": "p-716118d513e81573",
-      "sha256": "01322fe4d7070a3bd3ec777f3246c2f002d9897f04727b99cf8f1e750bf959d0",
+      "sha256": "1af51d653497723377a8126380222e124d86f31b5f0f738fee4f9aa109a720a6",
       "target": "mihomo"
     },
     {
@@ -6662,13 +6662,13 @@
       "target": "sing-box"
     },
     {
-      "bytes": 121912,
-      "entries": 27053,
+      "bytes": 121901,
+      "entries": 27055,
       "format": "srs",
       "kind": "domain",
       "path": "v1/p-716118d513e81573/sing-box/cn-accelerated-direct--direct--domain-s0.srs",
       "profile": "p-716118d513e81573",
-      "sha256": "eb18009ff709412d49ef34203eb76beed8d4ed85d34d87bce9e296d585e07609",
+      "sha256": "fc9142587e348e837f7131991ceac63cf78126facc754f7db13fc0e528f76267",
       "target": "sing-box"
     },
     {
@@ -6682,13 +6682,13 @@
       "target": "sing-box"
     },
     {
-      "bytes": 125040,
-      "entries": 27614,
+      "bytes": 125022,
+      "entries": 27615,
       "format": "srs",
       "kind": "domain",
       "path": "v1/p-716118d513e81573/sing-box/cn-accelerated-direct--direct--domain-s2.srs",
       "profile": "p-716118d513e81573",
-      "sha256": "19cbbb1d839c65d3129a9355accd67a8ea16d40ee6dd02d34bf8824f1449c883",
+      "sha256": "9e5fde12a327efbf01bcdcf36606d4fda370123a2b6a5766f9a1497847a0f724",
       "target": "sing-box"
     },
     {
@@ -7202,13 +7202,13 @@
       "target": "stash"
     },
     {
-      "bytes": 155103,
-      "entries": 27053,
+      "bytes": 155457,
+      "entries": 27055,
       "format": "mrs",
       "kind": "domain",
       "path": "v1/p-716118d513e81573/stash/cn-accelerated-direct--direct--domain-s0.mrs",
       "profile": "p-716118d513e81573",
-      "sha256": "8db948decd92f7f3f81972224f7c3dbe22c6457725facffc69d747724dcbcc48",
+      "sha256": "d8b054b4901a0da400f503f5035df72d2add98566c1d3d86e1bf755e7c6096d0",
       "target": "stash"
     },
     {
@@ -7222,13 +7222,13 @@
       "target": "stash"
     },
     {
-      "bytes": 158696,
-      "entries": 27614,
+      "bytes": 158770,
+      "entries": 27615,
       "format": "mrs",
       "kind": "domain",
       "path": "v1/p-716118d513e81573/stash/cn-accelerated-direct--direct--domain-s2.mrs",
       "profile": "p-716118d513e81573",
-      "sha256": "01322fe4d7070a3bd3ec777f3246c2f002d9897f04727b99cf8f1e750bf959d0",
+      "sha256": "1af51d653497723377a8126380222e124d86f31b5f0f738fee4f9aa109a720a6",
       "target": "stash"
     },
     {
@@ -7742,13 +7742,13 @@
       "target": "surge"
     },
     {
-      "bytes": 368861,
-      "entries": 27053,
+      "bytes": 368891,
+      "entries": 27055,
       "format": "list",
       "kind": "domain",
       "path": "v1/p-716118d513e81573/surge/cn-accelerated-direct--direct--domain-s0.list",
       "profile": "p-716118d513e81573",
-      "sha256": "e4997ab364f4ed94079a44505bae012788b3df9474739f957b609eaefaa68fc4",
+      "sha256": "6a885bd50071bb804c607476762dbdadf8d3a8147ecc45c49f108a3317877481",
       "target": "surge"
     },
     {
@@ -7762,13 +7762,13 @@
       "target": "surge"
     },
     {
-      "bytes": 376707,
-      "entries": 27614,
+      "bytes": 376718,
+      "entries": 27615,
       "format": "list",
       "kind": "domain",
       "path": "v1/p-716118d513e81573/surge/cn-accelerated-direct--direct--domain-s2.list",
       "profile": "p-716118d513e81573",
-      "sha256": "5d55b5aebc46943c5452c59633dbb39a34c8ad5e69a890b72f22369682857d4b",
+      "sha256": "8182fd6f180f5f2a59f111449b982ec5b56ecd1bd755a456fad974e6fad96c06",
       "target": "surge"
     },
     {
@@ -8192,7 +8192,7 @@
       "target": "surge"
     }
   ],
-  "generated_at": "2026-11-01T12:51:42+00:00",
+  "generated_at": "2026-11-02T00:51:54+00:00",
   "path_schema": "v1",
   "profile_count": 3,
   "profiles": [
@@ -8227,8 +8227,8 @@
       }
     }
   ],
-  "revision": "5dbebc20b1622df3c6ea",
+  "revision": "f05a7c33665dc4356505",
   "schema_version": 1,
-  "total_bytes": 29204472,
-  "total_rule_entries": 2641911
+  "total_bytes": 29207262,
+  "total_rule_entries": 2641956
 }
