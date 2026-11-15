@@ -6,6 +6,7 @@ payload:
   - "openaicomproductionae4b.blob.core.windows.net"
   - "copilotprodattachments.blob.core.windows.net"
   - "production-openaicom-storage.azureedge.net"
+  - "daily-cloudcode-pa.sandbox.googleapis.com"
   - "alkalimakersuite-pa.clients6.google.com"
   - "copilot-telemetry.githubusercontent.com"
   - "appsgenaiserver-pa.clients6.google.com"
